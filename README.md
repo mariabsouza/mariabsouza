@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hey, I am Maria! :wave:
 
-<!--
-**mariabsouza/mariabsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/mariabsouza)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/maria-souza-1a93841a3)
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* :computer: Developer in progress!
+* :books: Studying the first semester of "Desenvolvimento de sistemas" (System development)
+* :earth_americas: From São Paulo, Brasil
+
+<a href="https://github-readme-stats.vercel.app/api?username=mariabsouza&show_icons=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariabsouza&show_icons=true&theme=radical" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mariabsouza&layout=compact&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariabsouza&layout=compact&theme=radical" />
+</a>
+
