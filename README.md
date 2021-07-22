@@ -7,7 +7,7 @@
 
 * :computer: Developer in progress!
 * :books: Studying the first semester of "Desenvolvimento de sistemas" (System development)
-* :earth_americas: From São Paulo, Brasil
+* :earth_americas: From São Paulo, Brazil
 
 <a href="https://github-readme-stats.vercel.app/api?username=mariabsouza&show_icons=true&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariabsouza&show_icons=true&theme=radical" />
