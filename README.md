@@ -15,4 +15,3 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mariabsouza&layout=compact&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariabsouza&layout=compact&theme=radical" />
 </a>
-
