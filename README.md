@@ -6,7 +6,7 @@
 ### About me
 
 * :computer: Developer in progress!
-* :books: Studying the first semester of "Desenvolvimento de sistemas" (System development) at Mackenzie
+* :books: Studying the second semester of "Desenvolvimento de sistemas" (System development) at Mackenzie
 * :earth_americas: From São Paulo, Brazil
 
 <a href="https://github-readme-stats.vercel.app/api?username=mariabsouza&show_icons=true&theme=radical">
