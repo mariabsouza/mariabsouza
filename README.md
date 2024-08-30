@@ -9,11 +9,6 @@
 * :books: Studying the second semester of "Desenvolvimento de sistemas" (System development) at Mackenzie
 * :earth_americas: From São Paulo, Brazil
 
-<a href="https://github-readme-stats.vercel.app/api?username=mariabsouza&show_icons=true&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariabsouza&show_icons=true&theme=radical" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mariabsouza&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariabsouza&layout=compact&theme=radical" />
-</a>
+
 
 ![Snake animation](https://github.com/mariabsouza/mariabsouza/blob/output/github-contribution-grid-snake.svg)
