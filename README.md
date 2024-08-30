@@ -5,10 +5,9 @@
 
 ### About me
 
-* :computer: Developer in progress!
-* :books: Studying the second semester of "Desenvolvimento de sistemas" (System development) at Mackenzie
+* :computer: Software Engineer at Itaú Unibanco 🧡!
+* :books: Studying the last semester of "Desenvolvimento de sistemas" (System development) at Mackenzie
 * :earth_americas: From São Paulo, Brazil
 
 
 
-![Snake animation](https://github.com/mariabsouza/mariabsouza/blob/output/github-contribution-grid-snake.svg)
